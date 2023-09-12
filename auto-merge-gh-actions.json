@@ -5,7 +5,8 @@
       "matchManagers": ["github-actions"],
       "automerge": true,
       "stabilityDays": 2,
-      "pinDigests": true
+      "pinDigests": true,
+      "groupName": "gh-actions"
     }
   ]
 }
