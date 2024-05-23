@@ -4,7 +4,9 @@
     {
       "matchManagers": ["terraform"],
       "automerge": true,
-      "stabilityDays": 2
+      "stabilityDays": 2,
+      "platformAutomerge": true,
+      "automergeType": "branch"
     }
   ]
 }
