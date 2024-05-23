@@ -3,7 +3,9 @@
   "packageRules": [
     {
       "packageNames": ["@types/node", "@cloudflare/workers-types"],
-      "automerge": true
+      "automerge": true,
+      "platformAutomerge": true,
+      "automergeType": "branch"
     }
   ]
 }
