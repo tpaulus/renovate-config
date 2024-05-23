@@ -6,7 +6,9 @@
       "automerge": true,
       "stabilityDays": 2,
       "pinDigests": true,
-      "groupName": "gh-actions"
+      "groupName": "gh-actions",
+      "platformAutomerge": true,
+      "automergeType": "branch"
     }
   ]
 }
