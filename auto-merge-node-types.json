@@ -4,6 +4,7 @@
     {
       "packageNames": ["@types/node", "@cloudflare/workers-types"],
       "automerge": true,
+      "stabilityDays": 2,
       "platformAutomerge": true,
       "automergeType": "branch"
     }
